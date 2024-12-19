@@ -16,5 +16,11 @@ Muista määritellä alun vakiot rivit 12 ja 13 referenssikuvan perusteella.
 Luo mittausten_validointi-hakemisto pääohjelman kanssa samaan kansiorakenteeseen. Mitattu kuva tallentuun tähän kansioon
 
 
+The source code in this repository is part of my Master’s Thesis in Applied Sciences titled Convolutional Neural Networks.
+This project represents the practical component of my thesis and focuses on utilizing the YOLOv4-tiny model for measuring the height and width of objects in images.
+
+The full thesis is available online:
+[URN.fi - Convolutional neural networks](https://urn.fi/URN:NBN:fi:amk-2024060721931)
+(Written in Finish --> I am working on translation;)
 
 
