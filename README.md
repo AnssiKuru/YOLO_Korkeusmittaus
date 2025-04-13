@@ -1,3 +1,12 @@
+# Notice
+
+This project has been further developed and updated.
+
+You can find the latest and improved version here:
+
+➡️ [Dynamic Object Measurement (New Project)](https://github.com/AnssiKuru/Dynamic-Object-Measurement)
+
+
 # YOLO_Korkeusmittaus
 Ohjelmakoodit liittyvät YAMK-opinnäytetyöhöni Konvoluutioneuroverkko.
 Tämä projekti on opinnäytetyöni käytännön osuus ja keskittyy YOLOv4-tiny-mallin hyödyntämiseen objektien korkeuden ja leveyden mittaamisessa.
